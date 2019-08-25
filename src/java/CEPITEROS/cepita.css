@@ -1,0 +1,10 @@
+body{
+    background-image: url("../img/fondo.jpg");
+    text-align:center;
+}
+
+h1{
+    color:white;
+    font: oblique bold 120% cursive;
+    font-size: 250%
+}
